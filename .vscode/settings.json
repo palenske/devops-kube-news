@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/apps/v1%40deployment": "file:///home/palenske/mylab/kubernetes/kube-news/src/k8s/deployment.yaml"
+  }
+}
